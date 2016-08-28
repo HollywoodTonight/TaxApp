@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author Irina
+ * @author Irinauygu
  */
 public class Categorie implements InterfaceCategorie {
     String tip;
